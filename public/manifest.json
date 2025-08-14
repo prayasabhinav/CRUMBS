@@ -1,0 +1,23 @@
+{
+  "name": "CRUMBS",
+  "short_name": "CRUMBS",
+  "description": "Ultra-efficient image sharing for low-bandwidth environments",
+  "theme_color": "#1f2937",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
